@@ -147,7 +147,7 @@ def exportarErros(df, pasta, nome):
 
 # ============================================== PROGRAMA PRINCIPAL ============================================== #
 
-valores_x = [5, 6]
+valores_x = [1, 2]
 
 n = 6
 
